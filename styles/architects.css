@@ -61,9 +61,7 @@ main > section{
     font-weight: 500;
     color:
 }
-.nav-item{
 
-}
 .navbar,.banner{
     max-width: 1140px;
     margin: 0 auto;
@@ -176,6 +174,14 @@ main > section{
 }
 .sponsor-company img{
     filter: grayscale(100%);
+}
+
+/* footer styles */
+.footer-style{
+    padding: 40px 400px;
+    text-align: center;
+    margin: 150px 240px;
+    border-radius: 8px;
 }
 
 /* responsive media query */
